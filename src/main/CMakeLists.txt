@@ -1,4 +1,4 @@
-set(TARGET app)
+set(TARGET ${CMAKE_PROJECT_NAME})
 
 set(SOURCES
     main.cpp
